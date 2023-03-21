@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="img/fbprofilepic.jpg" alt="logo" width="50"  height="auto" />
+  <img src="img/archesportslogo.jpg" alt="logo" width="50"  height="auto" />
   <br/>
 </div>
 
