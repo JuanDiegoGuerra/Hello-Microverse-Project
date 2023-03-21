@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="fbprofilepic.jpg" alt="logo" width="140"  height="auto" />
+  <img src="img/fbprofilepic.jpg" alt="logo" width="50"  height="auto" />
   <br/>
 </div>
 
@@ -9,26 +9,22 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-- [👥 Authors](#authors)
-- [📝 License](#license)
+- [📖 About the Project](#1st-Practice-Git&Github)
+- [👥 Authors](#JuanDiegoGuerra)
+- [📝 License](#MIT LICENSE)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello-Microverse-Project] <a name="1st-Practice-Git&Github"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello-Microverse-Project]** is a... project to practice the use of git and github for future works.
+**[Hello-Microverse-Project]** is a project to practice the use of git and github for future works in Microverse.
 
 ## 👥 Authors <a name="JuanDiegoGuerra"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Juan Diego Guerra**
 
-- GitHub: [@githubhandle](https://github.com/JuanDiegoGuerra)
-- Twitter: [@twitterhandle](https://twitter.com/JdxElric147)
+- GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
+- Twitter: [@JdxElric147](https://twitter.com/JdxElric147)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
