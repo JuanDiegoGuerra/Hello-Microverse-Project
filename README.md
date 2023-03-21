@@ -11,7 +11,7 @@
 
 - [📖 About the Project](#1st-Practice-Git&Github)
 - [👥 Authors](#JuanDiegoGuerra)
-- [📝 License](#MIT LICENSE)
+- [📝 License](#MIT-LICENSE)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -28,7 +28,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="MIT LICENSE"></a>
+## 📝 License <a name="MIT-LICENSE"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
