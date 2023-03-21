@@ -4,6 +4,7 @@ jspm_packages
 .env
 .sass-cache
 .gitattributes
-.json
+package-lock.json
+package.json
 test.md
 LICENSE
