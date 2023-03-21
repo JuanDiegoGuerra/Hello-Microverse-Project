@@ -3,3 +3,7 @@ node_modules/
 jspm_packages
 .env
 .sass-cache
+.gitattributes
+.json
+test.md
+LICENSE
