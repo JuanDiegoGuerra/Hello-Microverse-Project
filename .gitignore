@@ -6,5 +6,8 @@ jspm_packages
 .gitattributes
 package-lock.json
 package.json
+.stylelinetrc.json
 test.md
 LICENSE
+.hintrc
+yarn.lock
