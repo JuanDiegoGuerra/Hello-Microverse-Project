@@ -9,17 +9,17 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#1st-Practice-Git&Github)
-- [👥 Authors](#JuanDiegoGuerra)
-- [📝 License](#MIT-LICENSE)
+- [📖 About the Project](#about-project)
+- [👥 Authors](#authors)
+- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse-Project] <a name="1st-Practice-Git&Github"></a>
+# 📖 [Hello-Microverse-Project] <a name="about-project"></a>
 
 **[Hello-Microverse-Project]** is a project to practice the use of git and github for future works in Microverse.
 
-## 👥 Authors <a name="JuanDiegoGuerra"></a>
+## 👥 Authors <a name="authors"></a>
 
 👤 **Juan Diego Guerra**
 
@@ -28,7 +28,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="MIT-LICENSE"></a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
