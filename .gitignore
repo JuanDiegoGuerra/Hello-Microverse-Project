@@ -1,1 +1,5 @@
-node_modules
+# .gitignore
+node_modules/
+jspm_packages
+.env
+.sass-cache
