@@ -34,32 +34,34 @@
 
 # 📖 [Hello-Microverse-Project] <a name="about-project"></a>
 
-**[Hello-Microverse-Project]** is a project to practice the use of git and github for future works in Microverse.
+**[Hello-Microverse-Project]** is mean to be an example of how to set up a simple project using git & github best practices.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Relevant tech stack of the project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Programming Tools</summary>
   <ul>
-    <li>No client used</li>
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Dev Tools</summary>
   <ul>
-    <li>No server used for this project</li>
+    <li>Git</li>
+    <li>GitHub</li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>Text Editor</summary>
   <ul>
-    <li>No databases used in this project</li>
+    <li>VS Code</li>
   </ul>
 </details>
 
@@ -67,11 +69,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> Key features of the application.
 
+- **[Learn_how_to_set_up_a_project]**
 - **[Learn_how_to_use_Git_&_GitHub]**
 - **[Learn_how_to_write_a_professional_README]**
-- **[key_feature_3]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,9 +82,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> No demo implemented for this project.
 
-- [Live Demo Link](https://google.com)
+- This project is mean to be an example of how to set up a simple project using git & github best practices.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,75 +100,61 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+Git
+Github web or desktop
+VS Code
+Node.js (to use npm commands)
+  "not sure how to use npm? Read" <a href="https://docs.npmjs.com/downloading-and-installing-node-js-and-npm" rel="nofollow">this</a>.
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+1️⃣ Open Git Bash.
+2️⃣ Change the current working directory to the location where you want the cloned directory.
+3️⃣ Type: `git clone https://github.com/JuanDiegoGuerra/Hello-Microverse-Project.git`
+4️⃣ Press Enter to create your local clone.
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+NOTE: If you are running on Windows, you need to initialize npm to create package.json file.
+<pre class="notranslate"><code>npm init -y
+</code></pre>
 
-```sh
-  cd my-project
-  gem install
-```
---->
+<li> "Webhint " 
+  <code>npm install --save-dev hint@7.x
+</code>
+</li>
+
+<li> "Stylelint " 
+  <code>npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+</code>
+</li>
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+<li> "Run this code and then fix the validation errors (if needed).
+<pre class="notranslate"><code>npx hint .
+</code></pre>
+</li>
 
-```sh
-  rails server
-```
---->
+<p dir="auto">Run <code>npx stylelint "**/*.{css,scss}"</code> on the root of your directory of your project.
+Fix linter errors</p>
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+No test needed for this project.
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: 
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+VS Code and Google Chrome.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,6 +166,65 @@ Example:
 
 - GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
 - Twitter: [@JdxElric147](https://twitter.com/JdxElric147)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[More_elements_to_main_page]**
+- [ ] **[New_styles_in_all_pages]**
+- [ ] **[More_content_in_general]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> You can support following me.
+
+If you like this project you can follow me 🤩! I will be adding more helpful material 😁.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Credits to: 
+
+I would like to thank my gf 😳 because she fed me when I was starving after coding for a lot of hours 🤭.
+I would like to thank to my reviewer too because he inspired me finish this challenge as it has to be 💪🏼.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> You could face some problems like me when doing this for the first time, so check this FAQ.
+
+- **[Why_is_my_Lighthouse_linter_not_working_?]**
+
+  - [If you have this specific problem, go to your ".yml" file and check the node-version of the specific linter. Best version for this project is "14" (in my case it was "18x" and I changed it)]
+
+- **[Wich_files_should_I_add_in_gitignore_?]**
+
+  - [Feel free to add any file you think is not necessary to be on your repo, but be careful when you add or create new files that might not be necessary in your repo but aren't written in your gitignore.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
